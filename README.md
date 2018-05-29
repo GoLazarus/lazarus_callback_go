@@ -51,7 +51,7 @@ Before testing, you need to ensure that Lazarus, Go, and GCC are installed corre
 
 ### Clone project
 
-Execute the command line `git clone https://github.com/llgoer/lazarus_callback_go.git`
+Execute the command line `git clone https://github.com/GoLazarus/lazarus_callback_go.git`
 
 ### Compiled
 
