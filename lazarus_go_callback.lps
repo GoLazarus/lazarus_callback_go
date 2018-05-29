@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="10"/>
+    <BuildModes Active="Default"/>
+    <Units Count="3">
+      <Unit0>
+        <Filename Value="lazarus_go_callback.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="20"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="ufrmmain.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmMain"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="uFrmMain"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="13"/>
+        <CursorPos X="16" Y="36"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="libgo.pp"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="1"/>
+        <CursorPos X="66" Y="14"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit2>
+    </Units>
+    <JumpHistory Count="15" HistoryIndex="14">
+      <Position1>
+        <Filename Value="ufrmmain.pas"/>
+      </Position1>
+      <Position2>
+        <Filename Value="ufrmmain.pas"/>
+        <Caret Line="2"/>
+      </Position2>
+      <Position3>
+        <Filename Value="ufrmmain.pas"/>
+        <Caret Line="18" Column="20"/>
+      </Position3>
+      <Position4>
+        <Filename Value="ufrmmain.pas"/>
+        <Caret Line="17" Column="19"/>
+      </Position4>
+      <Position5>
+        <Filename Value="ufrmmain.pas"/>
+        <Caret Line="36" Column="3"/>
+      </Position5>
+      <Position6>
+        <Filename Value="ufrmmain.pas"/>
+        <Caret Line="8" Column="83"/>
+      </Position6>
+      <Position7>
+        <Filename Value="ufrmmain.pas"/>
+        <Caret Line="39" Column="43" TopLine="6"/>
+      </Position7>
+      <Position8>
+        <Filename Value="ufrmmain.pas"/>
+        <Caret Line="18" Column="39"/>
+      </Position8>
+      <Position9>
+        <Filename Value="ufrmmain.pas"/>
+        <Caret Line="44" Column="43" TopLine="6"/>
+      </Position9>
+      <Position10>
+        <Filename Value="ufrmmain.pas"/>
+        <Caret Line="34" Column="45" TopLine="6"/>
+      </Position10>
+      <Position11>
+        <Filename Value="ufrmmain.pas"/>
+        <Caret Line="31" TopLine="6"/>
+      </Position11>
+      <Position12>
+        <Filename Value="ufrmmain.pas"/>
+        <Caret Line="41" Column="17" TopLine="6"/>
+      </Position12>
+      <Position13>
+        <Filename Value="ufrmmain.pas"/>
+        <Caret Line="42" Column="5" TopLine="3"/>
+      </Position13>
+      <Position14>
+        <Filename Value="ufrmmain.pas"/>
+        <Caret Line="45" Column="6" TopLine="8"/>
+      </Position14>
+      <Position15>
+        <Filename Value="ufrmmain.pas"/>
+        <Caret Line="33" TopLine="3"/>
+      </Position15>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>

@@ -1,0 +1,29 @@
+object frmMain: TfrmMain
+  Left = 0
+  Height = 240
+  Top = 0
+  Width = 320
+  Caption = 'frmMain'
+  ClientHeight = 240
+  ClientWidth = 320
+  Position = poScreenCenter
+  Visible = False
+  object Button1: TButton
+    Left = 0
+    Height = 32
+    Top = 0
+    Width = 320
+    Align = alTop
+    Caption = 'CallBack'
+    OnClick = Button1Click
+    TabOrder = 0
+  end
+  object Memo1: TMemo
+    Left = 0
+    Height = 208
+    Top = 32
+    Width = 320
+    Align = alClient
+    TabOrder = 1
+  end
+end
